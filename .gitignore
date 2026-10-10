@@ -17,3 +17,10 @@ local.properties
 /.idea/
 /.kotlin/
 **/build/
+
+# Backups locales del desarrollador (no forman parte de la entrega)
+MainActivity.*.kt
+*.backup-*
+backup-prototype-*/
+/Entrega/
+/recursos/

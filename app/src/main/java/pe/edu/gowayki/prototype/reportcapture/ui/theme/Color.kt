@@ -1,11 +1,16 @@
-package pe.edu.gowayki.prototype.reportcapture.ui.theme
+﻿package pe.edu.gowayki.prototype.reportcapture.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
+val GoWaykiTerracotta = Color(0xFFBC5433)
+val GoWaykiBlueGray = Color(0xFF8E9DB0)
+val GoWaykiCharcoal = Color(0xFF282828)
 
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+val GoWaykiBackground = Color(0xFFF7F6F3)
+val GoWaykiSurface = Color(0xFFFFFFFF)
+val GoWaykiTextSecondary = Color(0xFF686868)
+val GoWaykiBorder = Color(0xFFE6E2DD)
+val GoWaykiSuccess = Color(0xFF287A52)
+
+val GoWaykiMapBackground = Color(0xFFE9ECE5)
+val GoWaykiMapRoad = Color(0xFFFFFFFF)
